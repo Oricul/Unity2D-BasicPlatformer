@@ -23,7 +23,7 @@
 .vs/
 
 # Vistual Studio Code files
-.vscode
+.vscode/
 
 # Gradle cache directory
 .gradle/
